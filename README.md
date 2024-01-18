@@ -6,4 +6,6 @@ The radar model is based on the [AWR2944](https://www.ti.com/product/AWR2944) ra
 
 The intention of this model is to trial different DSP techniques before hardware testing.
 
+The model writen in a Jupyter notebook. For info on how to set this up: https://github.com/mathworks/jupyter-matlab-proxy
+
 Made for S7 DSS project fall / winter 2023.
